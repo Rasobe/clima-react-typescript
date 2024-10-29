@@ -1,4 +1,3 @@
-import React from "react";
 import { Weather } from "../../hooks/useWeather";
 import { formatTemperature } from "../../utils";
 import styles from './WeatherDetails.module.css'
